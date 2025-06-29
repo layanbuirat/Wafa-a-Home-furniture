@@ -24,7 +24,8 @@
 <div align="center">
   <img src="descripe.gif" width="800" alt="Website Walkthrough">
   <br>
-  [View Full Screen Demo](descripe.gif)
+  [Download Full Video](descripe.gif)
+
 </div>
 
 ## 📂 Project Structure
